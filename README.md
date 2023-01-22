@@ -4,9 +4,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+
 
 ### About Me 🚀
 - :smile:  I'm Yogesh (Yogi) Kumar, I'm a junior majoring in Computer Science at the Lovely Professional University
@@ -15,6 +13,9 @@
 - ⚡My competitive profiles: [Codechef(3 Star)](https://www.codechef.com/users/kabira_21) , [Leetcode](https://leetcode.com/Yogi2103/) , [Hackerrank](https://www.hackerrank.com/yogesh_baghel86?hr_r=1) , [GeeksForGeeks](https://auth.geeksforgeeks.org/user/yogesh11802384/profile)
 
 <hr>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
  ### 🔧 Languages and Frameworks:
 <code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>

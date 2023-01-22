@@ -1,4 +1,4 @@
-<div style="color:orange;">
+<div style="background-color:orange;">
 
 ### Hi there 👋, I'm [Subrat!](https://Yogi2103.github.io) 
 <div id="header" align="center">

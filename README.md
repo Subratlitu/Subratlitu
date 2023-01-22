@@ -1,11 +1,12 @@
+
+
+### Hi there 👋, I'm [Subrat!](https://Yogi2103.github.io) 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
-### Hi there 👋, I'm [Yogesh!](https://Yogi2103.github.io) 
 
 ### About Me 🚀
 - :smile:  I'm Yogesh (Yogi) Kumar, I'm a junior majoring in Computer Science at the Lovely Professional University

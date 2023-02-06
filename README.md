@@ -46,8 +46,6 @@ my whole career.
 <p align="center">
 <a href="https://www.linkedin.com/in/subrat-kumar-nayak-013904211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apurva866" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/subrat-kumar-nayak-013904211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mind.wrapper" height="30" width="40" /></a>
-<a href="https://medium.com/@yogesh-baghel86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@apurva866" height="30" width="40" /></a>
-<a href="https://leetcode.com/Yogi2103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mindwr4pper" height="30" width="40" /></a>
 <a href="mailto:subratnayak940@gmail.com"><img align="center" height="50" width="40" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a>
  
 
